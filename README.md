@@ -10,6 +10,7 @@
 - Uso de tags semânticas do HTML5.
 - Aplicação de estilos CSS para formatação do layout.
 - Inclusão de fontes e cores personalizadas.
+- Responsividade com Media Queries: Implementação de media queries para adaptar o layout a diferentes tamanhos de tela.
 
 ## Functionalities
 
@@ -17,5 +18,8 @@
 - Apoio a Mobile First: Estratégias e exemplos focados na abordagem "mobile first" para garantir que seus projetos sejam otimizados para dispositivos móveis desde o início.
 - Layouts Adaptativos: Exemplos de layouts que se ajustam dinamicamente a diferentes tamanhos de tela e resoluções.
 
+## Visit the web pages
+
+  <a href="https://treineme-six.vercel.app/"><img src="https://github.com/user-attachments/assets/a1dbe5a5-6623-44b0-a1a4-55c219f28574" alt="Pagina de web responsivo"/></a>
 
 
