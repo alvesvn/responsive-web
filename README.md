@@ -19,7 +19,7 @@
 - Layouts Adaptativos: Exemplos de layouts que se ajustam dinamicamente a diferentes tamanhos de tela e resoluções.
 
 ## Visit the web pages
-
+  ### 1. Web page
   <a href="https://responsive-web-five-sepia.vercel.app/"><img src="https://github.com/user-attachments/assets/a1dbe5a5-6623-44b0-a1a4-55c219f28574" alt="Pagina de web responsivo"/></a>
-
-
+  ### 2. Chessecake de frutas vermelhas
+  <a href="https://project-two-pied.vercel.app/"><img src="https://github.com/user-attachments/assets/48c0589f-6b73-45a2-8fbe-ceba2c339ff4" alt="Pagina de receita de cheesecake de frutas vermelhas"/></a>
